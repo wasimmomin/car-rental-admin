@@ -53,11 +53,6 @@ There are two users hardcoded for testing.
 * Email: [caradmin@gmail.com](mailto:caradmin@gmail.com)
 * Password: admin123
 
-**User**
-
-* Email: [waseem@gmail.com](mailto:waseem@gmail.com)
-* Password: waseem123
-
 ## Data
 
 All data is stored in memory. You can find the initial setup in `lib/db.js`.
