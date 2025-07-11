@@ -22,7 +22,7 @@ Data is stored in memory using a basic JS class (no external database or backend
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/car-rental-admin.git
+git clone https://github.com/wasimmomin/car-rental-admin.git
 cd car-rental-admin
 ````
 
